@@ -1,3 +1,4 @@
+//Write a program to check if acandidate is eligible for voting or not. (Hint: Check age)
 import java.util.Scanner;
 public class Eligible_for_voting 
 {

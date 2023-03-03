@@ -1,3 +1,4 @@
+//Write programs to use all the data types and given arithmetic operations.
 class Datatypes_and_operations
 {
     public static void main(String args[])
